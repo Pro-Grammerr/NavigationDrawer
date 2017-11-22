@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/account"
+        android:icon="@drawable/ic_portrait_black_24dp"
+        android:title="My Account"/>
+    <item android:id="@+id/settings"
+        android:icon="@drawable/ic_brightness_high_black_24dp"
+        android:title="Settings"/>
+    <item android:id="@+id/mycart"
+        android:icon="@drawable/ic_local_grocery_store_black_24dp"
+        android:title="My Cart"/>
+
+</menu>
